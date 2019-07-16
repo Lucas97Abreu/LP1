@@ -1,0 +1,3 @@
+Objeto são abstrações de objetos reais existentes.
+Classe é um molde, um modelo, um protótipo a partir do qual os objetos podem ser criados.
+A diferença é que os objetos só podem ser criados a partir de uma classe, sem ela não dá para criar um objeto.
