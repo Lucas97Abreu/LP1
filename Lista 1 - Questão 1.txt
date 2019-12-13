@@ -1,3 +1,13 @@
-Objeto s�o abstra��es de objetos reais existentes.
-Classe � um molde, um modelo, um prot�tipo a partir do qual os objetos podem ser criados.
-A diferen�a � que os objetos s� podem ser criados a partir de uma classe, sem ela n�o d� para criar um objeto.
+A) - Objeto são abstrações de objetos reais existentes.
+   - Classe é um molde, um modelo, um protótipo a partir do qual os objetos podem ser criados.
+   - A diferença é que os objetos só podem ser criados a partir de uma classe, sem ela não dá para criar um objeto.
+
+B) É um método que serve para definir o comportamento do objeto de uma classe no momento da sua criação.
+Pode ser utilizado para zerar os atributos de um objeto ou atribuir valor aos mesmos.
+
+C) - Permite restringir o acesso a variáveis e métodos da classe, garantindo uma maior segurança;
+   - evita quebra de integridade dos dados, minimizando os erros;
+   - facilita a atualização do código.
+   - Exemplo: uma empresa não gostaria que seu usuário pudesse modificar 
+     diretamente dados fixos na sua conta, para que isso não ocorra, coloca-se os atributos dos dados fixos no private, assim, 
+     somente a empresa mudaria os dados fixos de acordo com as transações do cliente.
